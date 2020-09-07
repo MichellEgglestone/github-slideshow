@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Michelle Egglestone - CrossFit athlete 
 Use the left arrow to go back!
